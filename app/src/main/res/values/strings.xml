@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitAndRxJavaSample</string>
+    <string name="failure">Failure</string>
+    <string name="nothing_yet">Nothing, yet</string>
+</resources>
